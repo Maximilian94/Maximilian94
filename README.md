@@ -30,35 +30,46 @@
 ---
 
 ### Languages:
-
-<a href="">
-  <img src="https://img.icons8.com/color/40/000000/html-5--v1.png"/>
-  <p>HTML 5</p>
-</a>
-<a href="">
-  <img src="https://img.icons8.com/color/40/000000/css3.png"/>
-  <p>CSS 3</p>
-</a>
-<a href="">
-  <img src="https://img.icons8.com/color/40/000000/javascript.png"/>
-  <p>Javascript</p>
-</a>
-<a href="">
-  <img src="https://img.icons8.com/plasticine/40/000000/react.png"/>
-  <p>React</p>
-</a>
-<a href="">
-  <img src="https://img.icons8.com/color/40/000000/redux.png"/>
-  <p>Redux</p>
-</a>
-<a href="">
-  <img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"/>
-  <p>JSON</p>
-</a>
-<a href="">
-  <img src="https://img.icons8.com/wired/40/000000/merge-git.png"/>
-  <p>GIT</p>
-</a>
+<table>
+  <tr>
+    <td>
+      <a href="">
+        <img src="https://img.icons8.com/color/40/000000/html-5--v1.png"/>
+        <p>HTML 5</p>
+      </a>  
+    </td>
+    <td>
+      <a href="">
+        <img src="https://img.icons8.com/color/40/000000/css3.png"/>
+        <p>CSS 3</p>
+      </a>
+    </td>
+    <td>
+      <a href="">
+        <img src="https://img.icons8.com/color/40/000000/javascript.png"/>
+        <p>Javascript</p>
+      </a>
+    </td>
+    <td>
+      <a href="">
+        <img src="https://img.icons8.com/color/40/000000/redux.png"/>
+        <p>Redux</p>
+      </a>
+    </td>
+    <td>
+      <a href="">
+        <img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"/>
+        <p>JSON</p>
+      </a>
+    </td>
+    <td>
+      <a href="">
+        <img src="https://img.icons8.com/wired/40/000000/merge-git.png"/>
+        <p>GIT</p>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### Languages and Tools:
 
