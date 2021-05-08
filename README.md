@@ -9,7 +9,7 @@
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
 [<code>
-<img alt="linkedin" width="26px" src="hhttps://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1620456612~hmac=d355561019372940d53d71b610fcf5fe" />
+<img alt="linkedin" width="26px" src="https://icons8.com/icon/118979/linkedin />
 </code>](https://www.linkedin.com/in/dev-maximilian-kaden/)
 [<img align="left" alt="Sabesan" height="22px" src="./SocialLogo/Web.png" />][website]
 [<img align="left" alt="Sabesan | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
