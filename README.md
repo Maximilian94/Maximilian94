@@ -1,5 +1,6 @@
 ### Hi there, I'm Maximilian Kaden 👋
-#### Brazilian / German 👋
+#### ![image](https://user-images.githubusercontent.com/25397640/117529310-49f61880-afad-11eb-9c11-fc3a30aea758.png)
+Brazilian / German 👋
 
 ## I'm a Web Developer and Aircraft Pilot!
 
