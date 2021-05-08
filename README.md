@@ -18,7 +18,7 @@
   <img src="https://img.icons8.com/doodle/40/000000/instagram-new.png"/>
 </a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mkadenfilgo@gmail.com">
-  <img src="https://img.icons8.com/doodle/40/000000/apple-mail.png"/>
+  <img src="https://img.icons8.com/doodle/40/000000/gmail.png"/>
 </a>
 
 <br />
