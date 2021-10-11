@@ -1,7 +1,7 @@
 ### Hi there, I'm Maximilian Kaden 👋
 #### Brazilian / German 👋
 
-## I'm a Web Developer and Aircraft Pilot!
+## I'm a Web Developer
 
 - :notebook: I’m currently learning BackEnd on Trybe Web Development School
 - :muscle: I’m looking to collaborate with other content creators
